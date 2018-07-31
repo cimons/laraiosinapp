@@ -1,0 +1,19 @@
+{
+    "name": "cimons/laraiosinapp",
+    "description": "Laravel IOS Receipt Inapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Shrestha",
+            "email": "cimon77@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cimons\\LaraIosInApp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
